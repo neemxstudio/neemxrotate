@@ -1,5 +1,5 @@
-# neemxrotate
-# NEEMX LLC.@2017
+# neemxrotate<br>
+# NEEMX LLC.@2017<br>
 Can use this PHOTOSHOP CC 2017 CEP extensions to rotate certain area of a image to any tangle you will.
 Copy the entire catalog into your computer's ADOBE/CEP/extensions/ 
 Sure to enable the debug mode of CEP.
